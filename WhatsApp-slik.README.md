@@ -1,4 +1,3 @@
-#کسمادر کسی اسکی بره
 from os import system , name
 system('pip install smtplib')
 system('pip install datetime')
@@ -54,7 +53,6 @@ sleep(0.1)
 
 mail = input(f'''{red}█▒▒▒▒▒▒▒▒▒{green}WHATSAPP-SLIK{blue}~{white}@SLIK-ROED{red}]-》{white} \ ''')
 passwd = input(f'''{red}10%
-
 ███▒▒▒▒▒▒▒[{green}WHATSAPP-ROAD{blue}~{white}@SLIK-ROAD{red}]-》{white} \ ''')
 target = input(f'''{red}█████▒▒▒▒▒[{green}WHATSAPP-SLIK{blue}~{white}@SLIK-ROED{red}]-》{white} \ ''')
 count = input(f'''{red}███████▒▒▒[{green}WHATSAPP-SLIK{blue}~{white}@SLIK-ROAD{red}]-》{white} \ ''')
